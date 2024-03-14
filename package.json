@@ -2,7 +2,7 @@
     "name": "DragonCraft-Launcher",
     "preductname": "DragonCraft",
     "version": "0.0.1",
-    "description": "Launcher Mincraft pour le serveur DragonCraft",
+    "description": "Launcher Minecraft pour le serveur DragonCraft",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Maximusj33, Inc.",
